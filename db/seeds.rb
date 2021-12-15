@@ -13,3 +13,7 @@ Character.create([
 	{ name: "Morpheus", description: "Morpheus (/ˈmɔːrfiəs/) is a fictional character in The Matrix franchise", img_url: " " },
 	{ name: "The Oracle ", description: "The Oracle is a fictional character in The Matrix franchise.", img_url: " "},
 ])
+
+Vehicle.create([
+    {name: "Nebuchadnezzar", style: "Spaceship"}
+])
